@@ -24,8 +24,6 @@ def video():
 	label.imgtk = imgtk
 	label.configure(image=imgtk)
 
-	label.after(20, video)
-
 # button
 start_b = Button(window, text='Start', command=video)
 start_b.grid(row=20, column=0)
