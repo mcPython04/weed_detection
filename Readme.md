@@ -1,4 +1,4 @@
-#Weed Detection with YOLOv5
+# Weed Detection with YOLOv5
 
 ## Environment Setup
 1. Run `bash venv_setup.txt` . This will create a virtual environment called `venv` and clone the YOLOv5 repository.
@@ -7,5 +7,8 @@
 
 3. Within the virtual environment run `pip install -r requirements.txt` to install the dependencies.
 
+4. Run `deactivate` to close the virtual environment.
 
+
+## Running the Inference
 

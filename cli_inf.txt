@@ -1,0 +1,4 @@
+source venv/bin/activate
+cd yolov5/
+export OPENBLAS_CORETYPE=ARMV8
+python3 detect.py  --source 1 --weights ../pt_files/best.pt --conf 0.25 --imgsz 736
