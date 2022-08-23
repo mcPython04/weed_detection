@@ -5,7 +5,7 @@ import Jetson.GPIO as GPIO
 import time
 
 # INFERENCE SETUP
-model = torch.hub.load('./yolov5', 'custom', path='./pt_files/best.pt', source='local')
+model = torch.hub.load('../yolov5', 'custom', path='../pt_files/best.pt', source='local')
 cam = cv2.VideoCapture(1)
 
 # HARDWARE SETUP
