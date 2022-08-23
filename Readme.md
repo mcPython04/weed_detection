@@ -11,4 +11,12 @@
 
 
 ## Running the Inference
+To run command line inference: `bash exec/cli_inf.txt`
+To run PyTorch inference: `bash exec/pytorch_inf.txt`
 
+## Executing Command Line Inference
+
+## Executing PyTorch Inference: Signal Output
+"Pin Layout Info"
+"Picture of Breadboard and Pin setup"
+"Video here demostrating signal output"
