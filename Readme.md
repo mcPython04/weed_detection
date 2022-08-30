@@ -15,7 +15,7 @@ To run command line inference: `bash exec/cli_inf.txt`
 
 To run PyTorch inference: `bash exec/pytorch_inf.txt`
 
-<b>**NOTE: </b> You may need to change the arguments within the `--source` parameter (within the .txt file) with the registered device_id on your computer. 
+<b>**NOTE: </b> You may need to replace the arguments within the `--source` parameter (within the .txt file) with the registered device_id on your computer. 
 
 ## Executing Command Line Inference
 "Video demo"
