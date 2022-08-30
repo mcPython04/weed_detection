@@ -1,2 +1,3 @@
-source ../venv/bin/activate
+source ./venv/bin/activate
+cd ./exec
 python3 pytorch_inf.py
