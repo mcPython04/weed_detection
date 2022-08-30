@@ -21,9 +21,10 @@ To run PyTorch inference: `bash exec/pytorch_inf.txt`
 "Video demo"
 
 ## Executing PyTorch Inference: Signal Output
-<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg">
+<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpeg">
 "Pin Layout Info"
 
+<img src="./media/breadboard_pic.jpg">
 "Picture of Breadboard and Pin setup"
 
 "Video here demostrating signal output"
