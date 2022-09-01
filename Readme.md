@@ -18,10 +18,10 @@ To run PyTorch inference: `bash exec/pytorch_inf.txt`
 <b>**NOTE: </b> You may need to replace the arguments within the `--source` parameter (within the .txt file) with the registered device_id on your computer. 
 
 ## Executing Command Line Inference
-<video src="./media/cli_inf_Trim1.mp4">
+<video src="./media/cli_inf_Trim1.mp4"></video>
 "CLI demo: p1"
 
-<video src="./media/cli_inf_Trim2.mp4">
+<video src="./media/cli_inf_Trim2.mp4"></video>
 "CLI demo: p2"
 
 ## Executing PyTorch Inference: Signal Output
