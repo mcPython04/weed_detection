@@ -18,7 +18,11 @@ To run PyTorch inference: `bash exec/pytorch_inf.txt`
 <b>**NOTE: </b> You may need to replace the arguments within the `--source` parameter (within the .txt file) with the registered device_id on your computer. 
 
 ## Executing Command Line Inference
-"Video demo"
+<video src="./media/cli_inf_Trim1.mp4">
+"CLI demo: p1"
+
+<video src="./media/cli_inf_Trim2.mp4">
+"CLI demo: p2"
 
 ## Executing PyTorch Inference: Signal Output
 <img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg">
@@ -27,4 +31,5 @@ To run PyTorch inference: `bash exec/pytorch_inf.txt`
 <img src="./media/breadboard_pic.jpeg">
 "Picture of Breadboard and Pin setup"
 
+<video src="./media/pytorch_inf.mp4">
 "Video here demostrating signal output"
