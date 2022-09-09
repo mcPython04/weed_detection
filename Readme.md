@@ -1,5 +1,13 @@
 # Weed Detection with YOLOv5
 
+## Hardware Specifications
+Computer: Nvidia's Jetson Nano
+Camera: "camera info"
+OS: Ubuntu 18.04
+
+**More information about Jetson Nano can be found [here](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+
+
 ## Environment Setup
 1. Run `bash venv_setup.txt` . This will create a virtual environment called `venv` and clone the YOLOv5 repository.
 
