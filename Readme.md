@@ -21,9 +21,9 @@ Inference videos can be found within the `media` folder.
 
 
 ## Setup for PyTorch Inference: Signal Output
-<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg" width="250" height="250">
+<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg" width="450" height="350">
 "Pin Layout Info"
 
-<img src="./media/breadboard_pic.jpeg" width="250" height="250">
+<img src="./media/breadboard_pic.jpeg" width="450" height="350">
 "Picture of Breadboard and Pin setup"
 
