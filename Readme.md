@@ -15,21 +15,15 @@ To run command line inference: `bash exec/cli_inf.txt`
 
 To run PyTorch inference: `bash exec/pytorch_inf.txt`
 
+Inference videos can be found within the `media` folder.
+
 <b>**NOTE: </b> You may need to replace the arguments within the `--source` parameter (within the .txt file) with the registered device_id on your computer. 
 
-## Executing Command Line Inference
-<video src="./media/cli_inf_Trim1.mp4"></video>
-"CLI demo: p1"
 
-<video src="./media/cli_inf_Trim2.mp4"></video>
-"CLI demo: p2"
-
-## Executing PyTorch Inference: Signal Output
-<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg">
+## Setup for PyTorch Inference: Signal Output
+<img src="./media/1-pin-diagram-nvidia-jetson-nano.jpg" width="250" height="250">
 "Pin Layout Info"
 
-<img src="./media/breadboard_pic.jpeg">
+<img src="./media/breadboard_pic.jpeg" width="250" height="250">
 "Picture of Breadboard and Pin setup"
 
-<video src="./media/pytorch_inf.mp4">
-"Video here demostrating signal output"
